@@ -232,7 +232,7 @@
                     <span class="h4 align-self-center">Mira el codigo aqui: </span>
                     <a href="https://github.com/Gorgias82/trivial"
                         class="d-inline-flex align-items-center justify-content-center">
-                        <img src="../../imagenes/github.png" alt="">
+                        <img src="./imagenes/github.png" alt="">
                     </a>
                 </div>
             </div>
