@@ -9,7 +9,7 @@ insert into tarjetas(categoria,pregunta,respuestaCorrecta,respuestaFalsa1,respue
 insert into tarjetas(categoria,pregunta,respuestaCorrecta,respuestaFalsa1,respuestaFalsa2,respuestaFalsa3) values('Sistemas informaticos','¿Cual de las siguientes NO es una distribucion linux?','Vue','Fedora','Debian','Mageia');
 insert into tarjetas(categoria,pregunta,respuestaCorrecta,respuestaFalsa1,respuestaFalsa2,respuestaFalsa3) values('Sistemas informaticos','¿Que sistema operativo de los siguientes es de codigo abierto?','Ubuntu','Mac OS X','Windows','Miui');
 insert into tarjetas(categoria,pregunta,respuestaCorrecta,respuestaFalsa1,respuestaFalsa2,respuestaFalsa3) values('Sistemas informaticos','¿Como se llama el creador de Linux?','Linus Torvalds','Bill Gates','Linus Gudmonssen','Gunther Linus');
-insert into tarjetas(categoria,pregunta,respuestaCorrecta,respuestaFalsa1,respuestaFalsa2,respuestaFalsa3) values('Sistemas informaticos','¿Cual de los siguientes es un protocolo alternativo a HTML?','Gopher','Cipher','Sass','C++');
+insert into tarjetas(categoria,pregunta,respuestaCorrecta,respuestaFalsa1,respuestaFalsa2,respuestaFalsa3) values('Sistemas informaticos','¿Cual de los siguientes en un antecesor de la WWW(world wide web)?','Gopher','Cipher','Sass','C++');
 
 --Categoria PHP--
 insert into tarjetas(categoria,pregunta,respuestaCorrecta,respuestaFalsa1,respuestaFalsa2,respuestaFalsa3) values('PHP','¿Que tiene que poner el atributo enctype en un formulario con subida de archivos?','multipart/form-data','form-data/files','post/files','form-data/upload');
